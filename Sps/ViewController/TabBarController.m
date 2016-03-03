@@ -1,27 +1,27 @@
 //
-//  ViewController.m
+//  TabBarController.m
 //  Sps
 //
-//  Created by DDaima on 2/2/16.
+//  Created by DDaima on 2/4/16.
 //  Copyright © 2016 DDaima. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "TabBarController.h"
 
-@interface ViewController ()
+@interface TabBarController ()
 
 @end
 
-@implementation ViewController
+@implementation TabBarController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    //self.tabBar.tintColor
+    // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
 @end
